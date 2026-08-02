@@ -173,9 +173,7 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "latex-panel-helper:Open LaTeX panel": false,
-      "obsidian-git:Open Git source control": false,
-      "terminal:Open terminal": false
+      "latex-panel-helper:Open LaTeX panel": false
     }
   },
   "active": "76e719bf2c2236f6",
